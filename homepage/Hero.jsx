@@ -21,7 +21,7 @@ export default function Hero() {
       </div>
 
       {/* Content */}
-      <div className="relative z-10 flex flex-col justify-center h-full px-6 md:px-16 lg:px-24 max-w-6xl">
+      <div className="relative z-10 flex flex-col justify-center h-full px-6 md:px-16  max-w-6xl">
         
         {/* Heading */}
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-extrabold tracking-tight font-serif uppercase text-white leading-tight">
